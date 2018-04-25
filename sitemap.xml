@@ -33,13 +33,13 @@
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/categories/development/</loc>
+    <loc>https://erikthought.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/tags/development/</loc>
+    <loc>https://erikthought.github.io/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -51,13 +51,13 @@
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/categories/golang/</loc>
+    <loc>https://erikthought.github.io/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/tags/golang/</loc>
+    <loc>https://erikthought.github.io/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
