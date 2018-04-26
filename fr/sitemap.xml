@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>erikthought.github.io/fr/categories/</loc>
+    <loc>https://erikthought.github.io/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="erikthought.github.io/en/categories/"
+                href="https://erikthought.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="erikthought.github.io/fr/categories/"
+                href="https://erikthought.github.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>erikthought.github.io/fr/</loc>
+    <loc>https://erikthought.github.io/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="erikthought.github.io/en/"
+                href="https://erikthought.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="erikthought.github.io/fr/"
+                href="https://erikthought.github.io/fr/"
                 />
   </url>
   
   <url>
-    <loc>erikthought.github.io/fr/tags/</loc>
+    <loc>https://erikthought.github.io/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="erikthought.github.io/en/tags/"
+                href="https://erikthought.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="erikthought.github.io/fr/tags/"
+                href="https://erikthought.github.io/fr/tags/"
                 />
   </url>
   
