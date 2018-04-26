@@ -3,170 +3,170 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://erikthought.github.io/en/basics/</loc>
+    <loc>/en/basics/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/cont/archetypes/</loc>
+    <loc>/en/cont/archetypes/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/cont/</loc>
+    <loc>/en/cont/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/basics/requirements/</loc>
+    <loc>/en/basics/requirements/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/cont/markdown/</loc>
+    <loc>/en/cont/markdown/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/</loc>
+    <loc>/en/shortcodes/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/basics/installation/</loc>
+    <loc>/en/basics/installation/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/basics/configuration/</loc>
+    <loc>/en/basics/configuration/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/cont/menushortcuts/</loc>
+    <loc>/en/cont/menushortcuts/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/basics/style-customization/</loc>
+    <loc>/en/basics/style-customization/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/attachments/</loc>
+    <loc>/en/shortcodes/attachments/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/button/</loc>
+    <loc>/en/shortcodes/button/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/categories/</loc>
+    <loc>/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://erikthought.github.io/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://erikthought.github.io/en/categories/"
+                href="/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/children/</loc>
+    <loc>/en/shortcodes/children/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/credits/</loc>
+    <loc>/en/credits/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/expand/</loc>
+    <loc>/en/shortcodes/expand/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://erikthought.github.io/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://erikthought.github.io/en/"
+                href="/en/"
                 />
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/mermaid/</loc>
+    <loc>/en/shortcodes/mermaid/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/notice/</loc>
+    <loc>/en/shortcodes/notice/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/showcase/</loc>
+    <loc>/en/showcase/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/siteparam/</loc>
+    <loc>/en/shortcodes/siteparam/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://erikthought.github.io/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://erikthought.github.io/en/tags/"
+                href="/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/children/children-1/</loc>
+    <loc>/en/shortcodes/children/children-1/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/children/children-1/children-1-1/</loc>
+    <loc>/en/shortcodes/children/children-1/children-1-1/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
+    <loc>/en/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
+    <loc>/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
+    <loc>/en/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/children/children-2/</loc>
+    <loc>/en/shortcodes/children/children-2/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/children/children-3/</loc>
+    <loc>/en/shortcodes/children/children-3/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/children/children-4/</loc>
+    <loc>/en/shortcodes/children/children-4/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/children/test/</loc>
+    <loc>/en/shortcodes/children/test/</loc>
   </url>
   
   <url>
-    <loc>https://erikthought.github.io/en/shortcodes/children/children-2/test3/</loc>
+    <loc>/en/shortcodes/children/children-2/test3/</loc>
   </url>
   
 </urlset>
