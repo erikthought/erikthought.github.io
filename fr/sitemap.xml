@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/test/fr/categories/</loc>
+    <loc>erikthought.github.io/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="erikthought.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="#ZgotmplZ"
+                href="erikthought.github.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/test/fr/</loc>
+    <loc>erikthought.github.io/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="erikthought.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="#ZgotmplZ"
+                href="erikthought.github.io/fr/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/test/fr/tags/</loc>
+    <loc>erikthought.github.io/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="erikthought.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="#ZgotmplZ"
+                href="erikthought.github.io/fr/tags/"
                 />
   </url>
   
