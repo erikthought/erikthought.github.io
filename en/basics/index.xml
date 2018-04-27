@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Basics on Documentation for Hugo Learn Theme</title>
+    <title>Basics hey on Documentation for Hugo Learn Theme</title>
     <link>/en/basics/</link>
-    <description>Recent content in Basics on Documentation for Hugo Learn Theme</description>
+    <description>Recent content in Basics hey on Documentation for Hugo Learn Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
 	<atom:link href="/en/basics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Marketing Automation</title>
+      <link>/en/basics/hshsh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/basics/hshsh/</guid>
+      <description>Chapter 2 Basics デジタルマーケティングの各プロセスの実行作業を自動化するシステムやプラットフォームのこと。顧客や潜在顧客の行動追跡、興味や関心などの情報収集、商品やサービス、コンテンツを提供するタイミングや方法の分析といった一連のマーケティング活動が、この仕組みにより効率化される。
+デジタルマーケティングの各プロセスの実行作業を自動化するシステムやプラットフォームのこと。顧客や潜在顧客の行動追跡、興味や関心などの情報収集、商品やサービス、コンテンツを提供するタイミングや方法の分析といった一連のマーケティング活動が、この仕組みにより効率化される。
+デジタルマーケティングの各プロセスの実行作業を自動化するシステムやプラットフォームのこと。顧客や潜在顧客の行動追跡、興味や関心などの情報収集、商品やサービス、コンテンツを提供するタイミングや方法の分析といった一連のマーケティング活動が、この仕組みにより効率化される。
+デジタルマーケティングの各プロセスの実行作業を自動化するシステムやプラットフォームのこと。顧客や潜在顧客の行動追跡、興味や関心などの情報収集、商品やサービス、コンテンツを提供するタイミングや方法の分析といった一連のマーケティング活動が、この仕組みにより効率化される。
+Jsl;sl; dsdfkjds flkd;lsdk ##
+ flkdfsl;  flsdl;fksd dsfl;dsl;fksdfkl</description>
+    </item>
     
   </channel>
 </rss>
