@@ -13,7 +13,7 @@ Before Tenten, I was a UX director and Engineer. I specialized in creating impac
 
 As digital transformation and technology adoption take centre stage, new people and skills are needed in every Enterprise level business to manage these initiatives, so my role as CEO/ CTO can usually help my client and partners to enabling the strategy for growth.
 
-#### Company I've founded or invested:
+### Company I've founded or invested:
 - [Tenten Digital - Taiwan](https://tenten.co)
 - [Tenten I.T. Solution - Philippines](https://tenten.dev)
 - [SparkProtein](https://sparkprotein.com/)
@@ -26,8 +26,8 @@ As digital transformation and technology adoption take centre stage, new people 
 <p>🌱 I'm currently learning web3, python</p>
 <p>💬 Ask me about Full Stack Development, AWS/ GCP/ Azure, PHP Laravel, Node.js, Wordpress, Webflow, NoCode, Xano, Retool, HubSpot, CSS/ Javascript</p>
 <p>📫 How to reach me? inquiry@tenten.co</p>
-<p>I regularly write articles on <a href="https://tenten.co/portfolio">Tenten Digital</a></p>
-<p>All of my projects are available at <a href="https://tenten.co/insight">Tenten Insights</a></p>
+<p>I regularly write articles on <a href="https://tenten.co/insight">Tenten Insights</a>, <a href="https://tenten.co/learning">Tenten Blog</a></p>
+<p>All of my projects are available at <a href="https://tenten.co/portfolio">Tenten Digital</a></p>
 <p>Know about my experiences <a href="https://www.linkedin.com/in/erikchen/">here</a></p>
 
 ## 💻 Skills
