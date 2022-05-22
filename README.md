@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Erik Chen
 
-<img width="100%" src="https://i.imgur.com/pcP0HYy.png" alt="my banner">
+<img width="100%" src="https://i.imgur.com/C5lLlIy.png" alt="my banner">
 
 
 I am a Product Designer/ Full-Stack engineer / Linux Enthusiast and Startups Investor with over 15+ years of experience in advertising, technology, and the startup industry. I've won Awwwards, helped create products or brands at the Digital Agency of the Decade.
