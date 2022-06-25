@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Erik Chen
+# # Hi there 👋, My name is Erik Chen
 
 <img width="100%" src="https://i.imgur.com/C5lLlIy.png" alt="my banner">
 
@@ -19,16 +19,31 @@ As digital transformation and technology adoption take centre stage, new people 
 - [SparkProtein](https://sparkprotein.com/)
 - [Area02](https://area02.com/)
 
-## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on Webflow MasterClass</p>
-<p>👯 I want to collaborate on Online Learning: Creative Classes on Dmobs</p>
-<p>🙏 I'm looking for help with Project Management</p>
-<p>🌱 I'm currently learning web3, python</p>
-<p>💬 Ask me about Full Stack Development, AWS/ GCP/ Azure, PHP Laravel, Node.js, Wordpress, Webflow, NoCode, Xano, Retool, HubSpot, CSS/ Javascript</p>
-<p>📫 How to reach me? inquiry@tenten.co</p>
-<p>I regularly write articles on <a href="https://tenten.co/insight">Tenten Insights</a>, <a href="https://tenten.co/learning">Tenten Blog</a></p>
-<p>All of my projects are available at <a href="https://tenten.co/portfolio">Tenten Digital</a></p>
-<p>Know about my experiences <a href="https://www.linkedin.com/in/erikchen/">here</a></p>
+## 💫 Little Bit More About Me
+- 🔭 I'm currently working on [Webflow Academy](https://webflow.tw/), building a [SaaS](https://www.hubline.app/), and incubating a [D2C brand](https://tenten.co/page/d2c-brand-lab)
+- 👯 I want to collaborate on [Online Learning: Creative Classes](https://www.youtube.com/user/tentencreative) for tech community
+- 🙏 I'm looking for help with Project Management, Video Production, and some good hands in Web3, [jobs link here](https://tenten.co/page/company/careers).
+- 🌱 I'm currently learning [web3](https://tenten.co/insight/category/blockchain/web3/), python, and [financial analysis](https://www.facebook.com/groups/charliemunger)
+- 💬 Ask me about Full Stack Development, AWS/ GCP/ Azure, PHP Laravel, Node.js, Wordpress, Webflow, NoCode, Xano, Retool, HubSpot, CSS/ Javascript
+- 📫 How to reach me? inquiry@tenten.co
+
+## Activity
+- I share some startups insight, web3, blockchain, nocode, SaaS on my [Twitter](https://twitter.com/erikthought), and [Facebook](https://www.facebook.com/tentencreative).
+- I make [videos](https://www.youtube.com/user/tentencreative) for Designer community in Taiwan,
+- I regularly write articles on [Tenten Insights](https://tenten.co/insight), [Tenten Blog](https://tenten.co/learning/).
+- 💬 I am active in [Webflow](https://www.facebook.com/groups/webflowschool/)/ [Nocode](https://www.facebook.com/groups/nocodetool)/ [UX community](https://www.facebook.com/groups/TaiwanUIUXDesigners), and [Tenten's Facebook](https://www.facebook.com/tentencreative)
+- My side hustle: Being an Indie Hacker launch MVP projects in weeks not months - [Martech Database](https://www.facebook.com/groups/webflowschool/posts/496880632210333/), [24Slack - D2C Brands curator](https://www.24slack.com/blog/), [Webflow Academy](https://webflow.tw/)
+- All of my projects are available at [Tenten](https://tenten.co/portfolio)
+- Interview: [NoCode Agency 10/10 - Martechie](https://www.martechie.org/blog-post/tenten-erik-chen)
+- Know more about my experiences [here](https://www.linkedin.com/in/erikchen/)
+
+
+## 🌱 Side Hustles (Indie Hacker)
+- [Martech Database](https://www.facebook.com/groups/webflowschool/posts/496880632210333/)
+- [24Slack - D2C Brands curator](https://www.24slack.com/blog/)
+- [Webflow Academy](https://webflow.tw/)
+- [Cocobase: Start Your Company in the US](https://www.cocobase.co/)
+
 
 ## 💻 Skills
 <p>
@@ -59,13 +74,10 @@ As digital transformation and technology adoption take centre stage, new people 
 <a href="https://www.behance.net/tenten"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
+## 🌟 Awards
+![Tenten's Award](https://i.imgur.com/FtAl4D6.png)
 
 ## 🏆 GitHub Trophies
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=erikthought">
 </p>
-
-## 📊 Github Status
